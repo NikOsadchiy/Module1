@@ -22,7 +22,6 @@ public:
         if (number == 1) {
             digits.insert(digits.begin(), 1);
         }
-
         return digits;
     }
 };
