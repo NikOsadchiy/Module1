@@ -1,0 +1,4 @@
+﻿  Solution.cpp
+C:\Users\user\Documents\GitHub\Module1\Search Insert Position\Solution\Solution\Solution.cpp(7,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\user\Documents\GitHub\Module1\Search Insert Position\Solution\x64\Debug\Solution.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
